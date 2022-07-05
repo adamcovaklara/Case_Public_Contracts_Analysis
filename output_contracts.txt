@@ -1,0 +1,5 @@
+	-----------------
+	Output
+	-----------------
+	1. Folder "data" contains python script, jupyter notebook script and raw data.
+	2. File "Case_Public_Contracts_Analysis.html" contains the results in presentation form.
